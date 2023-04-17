@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice0412", "Practice0412\Practice0412.csproj", "{7B2BE47F-5DC5-409C-A760-6B34725C1BF5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "使用 for 迴圈輸出一個字母金字塔", "使用 for 迴圈輸出一個字母金字塔\使用 for 迴圈輸出一個字母金字塔.csproj", "{14B8657C-3BDB-47D7-B01B-05EA185218B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "計算線段長度", "計算線段長度\計算線段長度.csproj", "{45503074-E8FE-4E37-98C1-D66F80704065}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "元音字母替換", "WindowsFormsApp1\元音字母替換.csproj", "{DCDBC0F6-8E7C-46A7-99E1-7F6D01D190E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "發票金額", "發票金額\發票金額.csproj", "{2DCA5640-4105-43BE-A01B-2378FF2DAD7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "整數陣列出現頻率最高的數字", "整數陣列出現頻率最高的數字\整數陣列出現頻率最高的數字.csproj", "{33FD0AD0-AE3D-41E6-9220-F5A0FC8330D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B2BE47F-5DC5-409C-A760-6B34725C1BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2BE47F-5DC5-409C-A760-6B34725C1BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2BE47F-5DC5-409C-A760-6B34725C1BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2BE47F-5DC5-409C-A760-6B34725C1BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B8657C-3BDB-47D7-B01B-05EA185218B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B8657C-3BDB-47D7-B01B-05EA185218B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B8657C-3BDB-47D7-B01B-05EA185218B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B8657C-3BDB-47D7-B01B-05EA185218B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45503074-E8FE-4E37-98C1-D66F80704065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45503074-E8FE-4E37-98C1-D66F80704065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45503074-E8FE-4E37-98C1-D66F80704065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45503074-E8FE-4E37-98C1-D66F80704065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDBC0F6-8E7C-46A7-99E1-7F6D01D190E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDBC0F6-8E7C-46A7-99E1-7F6D01D190E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDBC0F6-8E7C-46A7-99E1-7F6D01D190E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDBC0F6-8E7C-46A7-99E1-7F6D01D190E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DCA5640-4105-43BE-A01B-2378FF2DAD7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCA5640-4105-43BE-A01B-2378FF2DAD7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCA5640-4105-43BE-A01B-2378FF2DAD7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCA5640-4105-43BE-A01B-2378FF2DAD7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33FD0AD0-AE3D-41E6-9220-F5A0FC8330D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FD0AD0-AE3D-41E6-9220-F5A0FC8330D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FD0AD0-AE3D-41E6-9220-F5A0FC8330D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FD0AD0-AE3D-41E6-9220-F5A0FC8330D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {354A5438-9746-4AF5-B2F8-789A8EAA1862}
+	EndGlobalSection
+EndGlobal
